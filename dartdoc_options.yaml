@@ -1,0 +1,6 @@
+# control documentation options
+dartdoc:
+  favicon: 'doc-rocket-lib.ico'
+
+
+# end of document
